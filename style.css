@@ -38,6 +38,11 @@ section {
   margin: 2rem 0;
 }
 
+section h3 {
+  margin-top: 3rem;
+  color: #00bcd4;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
