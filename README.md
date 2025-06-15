@@ -5,7 +5,7 @@
 Este site é meu portfólio pessoal, feito com HTML e CSS, para apresentar projetos reais e estudos desenvolvidos durante minha jornada na tecnologia.
 
 ## 🔗 Acesse meu portfólio
-[Clique aqui para visitar]([https://1narf.github.io/portfolio-franciely](https://1narf.github.io/franciely.github.io/))
+[Clique aqui para visitar](https://1narf.github.io/franciely.github.io/)
 
 ---
 
