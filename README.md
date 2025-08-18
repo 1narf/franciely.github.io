@@ -14,7 +14,7 @@ Este site é meu portfólio pessoal, feito com HTML e CSS, para apresentar proje
 - CSS3
 - Responsividade (mobile first)
 - Figma (para design de interfaces)
-- Canva (materiais gráficos)
+- Photoshop + Canva (materiais gráficos)
 
 ---
 
